@@ -18,9 +18,15 @@
     <ClCompile Include="forwardListFunctions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="doublyListFunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="forwardList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="doublyList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

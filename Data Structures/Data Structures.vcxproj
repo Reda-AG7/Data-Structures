@@ -140,9 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="forwardListFunctions.cpp" />
+    <ClCompile Include="doublyListFunction.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="forwardList.h" />
+    <ClInclude Include="doublyList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

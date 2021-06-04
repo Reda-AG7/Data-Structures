@@ -143,12 +143,14 @@
     <ClCompile Include="doublyListFunction.cpp" />
     <ClCompile Include="queueFunctions.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="DynamicArrayFunctions.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bst.h" />
     <ClInclude Include="forwardList.h" />
     <ClInclude Include="doublyList.h" />
     <ClInclude Include="queue.h" />
+    <ClInclude Include="DynamicArrayClass.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

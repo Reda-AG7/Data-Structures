@@ -21,12 +21,24 @@
     <ClCompile Include="doublyListFunction.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="queueFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="forwardList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="doublyList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bst.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="queue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

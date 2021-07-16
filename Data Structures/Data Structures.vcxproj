@@ -151,8 +151,10 @@
     <ClInclude Include="circularQueue.h" />
     <ClInclude Include="forwardList.h" />
     <ClInclude Include="doublyList.h" />
+    <ClInclude Include="hashTable.h" />
     <ClInclude Include="queue.h" />
     <ClInclude Include="DynamicArrayClass.h" />
+    <ClInclude Include="forwardSortedList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

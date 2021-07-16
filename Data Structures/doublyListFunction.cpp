@@ -1,4 +1,4 @@
-/*#include "doublyList.h"
+#include "doublyList.h"
 
 dList::dList() :head(NULL) {}
 bool dList::isEmpty() const {
@@ -115,4 +115,4 @@ void dList::sortList() {
 //	d.displayList();
 //	}
 //	std::cin.get();
-//}*/
+//}

@@ -98,22 +98,22 @@ int circularQueue::getFront() const {
 int circularQueue::getRear() const {
 	return q[rear];
 }
-int main() {
-	circularQueue q;
-	q.enqueue(10);
-	q.enqueue(20);
-	q.enqueue(60);
-	q.enqueue(90);
-	q.DisplayQueue();
-	q.dequeue();
-	q.DisplayQueue();
-	q.enqueue(180);
-	q.DisplayQueue();
-	q.dequeue();
-	q.DisplayQueue();
-	q.enqueue(250);
-	q.DisplayQueue();
-	std::cout << "front : " << q.getFront() << std::endl;
-	std::cout << "rear : " << q.getRear() << std::endl;
-	std::cin.get();
-}
+//int main() {
+//	circularQueue q;
+//	q.enqueue(10);
+//	q.enqueue(20);
+//	q.enqueue(60);
+//	q.enqueue(90);
+//	q.DisplayQueue();
+//	q.dequeue();
+//	q.DisplayQueue();
+//	q.enqueue(180);
+//	q.DisplayQueue();
+//	q.dequeue();
+//	q.DisplayQueue();
+//	q.enqueue(250);
+//	q.DisplayQueue();
+//	std::cout << "front : " << q.getFront() << std::endl;
+//	std::cout << "rear : " << q.getRear() << std::endl;
+//	std::cin.get();
+//}
